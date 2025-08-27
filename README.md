@@ -1,6 +1,6 @@
 # Data Analyst Portfolio — Conrad Murillo 📊
 
-Welcome to my Data Analyst portfolio!  
+Welcome to my Data Analyst portfolio  
 Here I showcase projects using **SQL, Excel, Power BI, and Tableau**, focused on solving business problems and turning data into actionable insights.  
 
 ---
