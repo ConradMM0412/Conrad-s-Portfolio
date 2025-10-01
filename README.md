@@ -8,7 +8,7 @@ Here I showcase projects using **SQL, Excel, Power BI, and Tableau**, focused on
 ## 🛠️ Technologies Used
 - [Excel](https://www.microsoft.com/en/microsoft-365/excel) 📑  
 - [SQL Server](https://learn.microsoft.com/en-us/sql/sql-server/) | [MySQL](https://www.mysql.com/) 🗃️  
-- [Power BI](https://powerbi.microsoft.com/) 🟨  
+- [Power BI](https://powerbi.microsoft.com/) 🟨  (Contoso  Dashboard Microsoft)
 - [Tableau](https://public.tableau.com/app/discover) 📊  
 - [Python](https://www.python.org/) 🐍 *(basic for data manipulation & automation)*  
 
