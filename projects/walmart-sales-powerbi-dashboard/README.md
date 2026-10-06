@@ -4,7 +4,7 @@ Power BI project analyzing Walmart weekly sales performance across 45 stores.
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.PNG)
 
 ## Project Overview
 
